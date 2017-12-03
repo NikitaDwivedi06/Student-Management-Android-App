@@ -32,7 +32,7 @@ public class FormActivityUDR extends AppCompatActivity {
     private EditText EnrollmentID;
     private EditText Name;
     private EditText Phone;
-    private static final String URL = "http://10.0.2.2:80/dir1/student_insert.php";
+    private static final String URL = "http://hostname/directoy_name/student_control.php";
     private StringRequest request;
     private RequestQueue requestQueue;
 

@@ -28,7 +28,7 @@ public class UpdateForm extends AppCompatActivity {
     private EditText Email;
     private EditText Address;
     private Button Update;
-    private static final String URL = "http://10.0.2.2:80/dir1/student_insert.php";
+    private static final String URL = "http://hostname/directoy_name/student_control.php";
     private StringRequest request;
     private RequestQueue requestQueue;
 

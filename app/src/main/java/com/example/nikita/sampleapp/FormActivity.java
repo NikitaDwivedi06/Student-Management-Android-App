@@ -35,7 +35,7 @@ public class FormActivity extends AppCompatActivity {
     private EditText DOB;
     private Button Clear;
     private Button Submit;
-    private static final String URL = "http://10.0.2.2:80/dir1/student_insert.php";
+    private static final String URL = "http://hostname/directoy_name/student_control.php";
     private StringRequest request;
     private RequestQueue requestQueue;
 

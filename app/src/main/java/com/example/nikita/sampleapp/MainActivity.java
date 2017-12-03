@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private int loginAttempts = 3;
 
     private RequestQueue requestQueue;
-    private static final String URL = "http://10.0.2.2:80/dir1/user_control.php";
+    private static final String URL = "http://hostname/directory_name/user_control.php";
     private StringRequest request;
 
 
