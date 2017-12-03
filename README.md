@@ -1,0 +1,1 @@
+A simple Android Application which lets admins Update, Delete and Insert Student Records in a MySql Database.
